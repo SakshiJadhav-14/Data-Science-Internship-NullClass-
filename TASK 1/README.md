@@ -2,7 +2,7 @@
 
 # 🤖 Real-Time Gen AI Customer Support Bot
 
-This is the official repository for **Task 1** of the NullClass Internship:  
+This is the repository for **Task 1** of the NullClass Internship:  
 A fully functional **Real-Time Gen AI Customer Support Bot** built using **Python, Streamlit, FAISS, and OpenAI**, deployed using **ngrok**.
 
 The bot can:
@@ -90,7 +90,7 @@ Then copy the ngrok public URL printed in the terminal (e.g., https://1234-56-78
 ---
 
 ### 🧑‍💻 Author
-* Name: Snehita Dhatri
+* Name: Sakshi Jadhav
 * Internship Role: Data Science Intern
 * Organization: NullClass
 
